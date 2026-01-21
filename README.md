@@ -7,7 +7,7 @@
 
 ## Overview
 
-This platform-independent tool provides a graphical user interface (GUI) for signing and verifying messages connecting to Namecoin Core descriptors, HD, and legacy wallets. It replicates Namecoin Core's native `signmessage` and `verifymessage` RPCs for legacy addresses while extending support to modern Bech32/SegWit addresses. Consequently, verifying ownership of assets assigned to Bech32 addresses no longer relies on on-chain verification strings.
+This platform-independent tool provides a graphical user interface (GUI) for signing and verifying messages connecting to Namecoin Core descriptor, HD, and legacy wallets. It replicates Namecoin Core's native `signmessage` and `verifymessage` RPCs for legacy addresses while extending support to modern Bech32/SegWit addresses. Consequently, verifying ownership of assets assigned to Bech32 addresses no longer relies on on-chain verification strings.
 
 The tool supports various address formats, including Bech32 (nc1...), legacy P2PKH (N... or M...), and P2SH (6...). For all types, the script solely performs internal signing/verification using derived private keys. This addresses the issue of various Namecoin software wallets generating different signatures due to their different native signing procedures (e.g., Namecoin Core v0.13.99 vs. v0.19). It retrieves the assigned address via the `name_show` RPC and supports a multilingual interface.
 

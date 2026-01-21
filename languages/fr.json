@@ -1,0 +1,18 @@
+{
+  "title": "Signataire de Messages Namecoin",
+  "label_name": "Nom Namecoin",
+  "label_message": "Message à Signer/Vérifier",
+  "label_signature": "Signature",
+  "button_sign": "Signer",
+  "button_verify": "Vérifier",
+  "log_welcome": "Bienvenue dans le Signataire de Messages Namecoin",
+  "log_language_changed": "La langue a été changée",
+  "log_loading_wallet": "Chargement du portefeuille...",
+  "log_wallet_loaded": "Portefeuille chargé",
+  "log_signed": "Message signé avec succès",
+  "log_verified": "Message vérifié",
+  "error_title": "Erreur",
+  "verify_title": "Résultat de Vérification",
+  "msg_valid": "La signature est valide",
+  "msg_invalid": "La signature est invalide"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Penandatangan Pesan Namecoin",
+  "label_name": "Nama Namecoin",
+  "label_message": "Pesan untuk Ditandatangani/Verifikasi",
+  "label_signature": "Tanda Tangan",
+  "button_sign": "Tandatangani",
+  "button_verify": "Verifikasi",
+  "log_welcome": "Selamat datang di Penandatangan Pesan Namecoin",
+  "log_language_changed": "Bahasa telah diubah",
+  "log_loading_wallet": "Memuat dompet...",
+  "log_wallet_loaded": "Dompet dimuat",
+  "log_signed": "Pesan berhasil ditandatangani",
+  "log_verified": "Pesan diverifikasi",
+  "error_title": "Kesalahan",
+  "verify_title": "Hasil Verifikasi",
+  "msg_valid": "Tanda tangan valid",
+  "msg_invalid": "Tanda tangan tidak valid"
+}

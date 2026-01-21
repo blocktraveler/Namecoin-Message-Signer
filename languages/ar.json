@@ -1,0 +1,18 @@
+{
+  "title": "مدقق رسائل Namecoin",
+  "label_name": "اسم Namecoin",
+  "label_message": "الرسالة للتوقيع/التحقق",
+  "label_signature": "التوقيع",
+  "button_sign": "توقيع",
+  "button_verify": "تحقق",
+  "log_welcome": "مرحبا بك في مدقق رسائل Namecoin",
+  "log_language_changed": "تم تغيير اللغة",
+  "log_loading_wallet": "جاري تحميل المحفظة...",
+  "log_wallet_loaded": "محفظة محملة",
+  "log_signed": "تم توقيع الرسالة بنجاح",
+  "log_verified": "تم التحقق من الرسالة",
+  "error_title": "خطأ",
+  "verify_title": "نتيجة التحقق",
+  "msg_valid": "التوقيع صالح",
+  "msg_invalid": "التوقيع غير صالح"
+}

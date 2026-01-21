@@ -1,0 +1,18 @@
+{
+  "title": "Namecoin 메시지 서명자",
+  "label_name": "Namecoin 이름",
+  "label_message": "서명/검증할 메시지",
+  "label_signature": "서명",
+  "button_sign": "서명",
+  "button_verify": "검증",
+  "log_welcome": "Namecoin 메시지 서명자에 오신 것을 환영합니다",
+  "log_language_changed": "언어가 변경되었습니다",
+  "log_loading_wallet": "지갑 로딩 중...",
+  "log_wallet_loaded": "지갑이 로드되었습니다",
+  "log_signed": "메시지가 성공적으로 서명되었습니다",
+  "log_verified": "메시지가 검증되었습니다",
+  "error_title": "오류",
+  "verify_title": "검증 결과",
+  "msg_valid": "서명이 유효합니다",
+  "msg_invalid": "서명이 유효하지 않습니다"
+}

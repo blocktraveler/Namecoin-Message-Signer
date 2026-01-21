@@ -1,0 +1,18 @@
+{
+  "title": "Assinador de Mensagens Namecoin",
+  "label_name": "Nome Namecoin",
+  "label_message": "Mensagem para Assinar/Verificar",
+  "label_signature": "Assinatura",
+  "button_sign": "Assinar",
+  "button_verify": "Verificar",
+  "log_welcome": "Bem-vindo ao Assinador de Mensagens Namecoin",
+  "log_language_changed": "Idioma foi alterado",
+  "log_loading_wallet": "Carregando carteira...",
+  "log_wallet_loaded": "Carteira carregada",
+  "log_signed": "Mensagem assinada com sucesso",
+  "log_verified": "Mensagem verificada",
+  "error_title": "Erro",
+  "verify_title": "Resultado da Verificação",
+  "msg_valid": "A assinatura é válida",
+  "msg_invalid": "A assinatura é inválida"
+}

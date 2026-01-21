@@ -1,0 +1,18 @@
+{
+  "title": "Podpisywacz Wiadomości Namecoin",
+  "label_name": "Nazwa Namecoin",
+  "label_message": "Wiadomość do Podpisania/Weryfikacji",
+  "label_signature": "Podpis",
+  "button_sign": "Podpisz",
+  "button_verify": "Weryfikuj",
+  "log_welcome": "Witamy w Podpisywaczu Wiadomości Namecoin",
+  "log_language_changed": "Język został zmieniony",
+  "log_loading_wallet": "Ładowanie portfela...",
+  "log_wallet_loaded": "Portfel załadowany",
+  "log_signed": "Wiadomość podpisana pomyślnie",
+  "log_verified": "Wiadomość zweryfikowana",
+  "error_title": "Błąd",
+  "verify_title": "Wynik Weryfikacji",
+  "msg_valid": "Podpis jest ważny",
+  "msg_invalid": "Podpis jest nieważny"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Подписчик Сообщений Namecoin",
+  "label_name": "Имя Namecoin",
+  "label_message": "Сообщение для Подписи/Проверки",
+  "label_signature": "Подпись",
+  "button_sign": "Подписать",
+  "button_verify": "Проверить",
+  "log_welcome": "Добро пожаловать в Подписчик Сообщений Namecoin",
+  "log_language_changed": "Язык изменен",
+  "log_loading_wallet": "Загрузка кошелька...",
+  "log_wallet_loaded": "Кошелек загружен",
+  "log_signed": "Сообщение успешно подписано",
+  "log_verified": "Сообщение проверено",
+  "error_title": "Ошибка",
+  "verify_title": "Результат Проверки",
+  "msg_valid": "Подпись действительна",
+  "msg_invalid": "Подпись недействительна"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Namecoin Message Signer",
+  "label_name": "Namecoin Name",
+  "label_message": "Message to sign/verify",
+  "label_signature": "Signature",
+  "button_sign": "Sign",
+  "button_verify": "Verify",
+  "log_welcome": "Welcome to the Namecoin Message Signer",
+  "log_language_changed": "Language has been changed",
+  "log_loading_wallet": "Loading wallet...",
+  "log_wallet_loaded": "Wallet loaded",
+  "log_signed": "Message signed successfully",
+  "log_verified": "Message verified",
+  "error_title": "Error",
+  "verify_title": "Verification Result",
+  "msg_valid": "The signature is valid",
+  "msg_invalid": "The signature is invalid"
+}

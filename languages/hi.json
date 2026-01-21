@@ -1,0 +1,18 @@
+{
+  "title": "Namecoin संदेश हस्ताक्षरकर्ता",
+  "label_name": "Namecoin नाम",
+  "label_message": "हस्ताक्षर/सत्यापित करने के लिए संदेश",
+  "label_signature": "हस्ताक्षर",
+  "button_sign": "हस्ताक्षर करें",
+  "button_verify": "सत्यापित करें",
+  "log_welcome": "Namecoin संदेश हस्ताक्षरकर्ता में आपका स्वागत है",
+  "log_language_changed": "भाषा बदल दी गई है",
+  "log_loading_wallet": "वॉलेट लोड हो रहा है...",
+  "log_wallet_loaded": "वॉलेट लोडेड",
+  "log_signed": "संदेश सफलतापूर्वक हस्ताक्षरित",
+  "log_verified": "संदेश सत्यापित",
+  "error_title": "त्रुटि",
+  "verify_title": "सत्यापन परिणाम",
+  "msg_valid": "हस्ताक्षर वैध है",
+  "msg_invalid": "हस्ताक्षर अमान्य है"
+}

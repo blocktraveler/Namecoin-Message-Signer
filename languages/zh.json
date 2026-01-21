@@ -1,0 +1,18 @@
+{
+  "title": "Namecoin 消息签名器",
+  "label_name": "Namecoin 名称",
+  "label_message": "要签名/验证的消息",
+  "label_signature": "签名",
+  "button_sign": "签名",
+  "button_verify": "验证",
+  "log_welcome": "欢迎使用 Namecoin 消息签名器",
+  "log_language_changed": "语言已更改",
+  "log_loading_wallet": "正在加载钱包...",
+  "log_wallet_loaded": "钱包已加载",
+  "log_signed": "消息签名成功",
+  "log_verified": "消息已验证",
+  "error_title": "错误",
+  "verify_title": "验证结果",
+  "msg_valid": "签名有效",
+  "msg_invalid": "签名无效"
+}

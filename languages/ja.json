@@ -1,0 +1,18 @@
+{
+  "title": "Namecoin メッセージ署名ツール",
+  "label_name": "Namecoin 名",
+  "label_message": "署名/検証するメッセージ",
+  "label_signature": "署名",
+  "button_sign": "署名",
+  "button_verify": "検証",
+  "log_welcome": "Namecoin メッセージ署名ツールへようこそ",
+  "log_language_changed": "言語が変更されました",
+  "log_loading_wallet": "ウォレットを読み込み中...",
+  "log_wallet_loaded": "ウォレットが読み込まれました",
+  "log_signed": "メッセージの署名に成功しました",
+  "log_verified": "メッセージが検証されました",
+  "error_title": "エラー",
+  "verify_title": "検証結果",
+  "msg_valid": "署名は有効です",
+  "msg_invalid": "署名は無効です"
+}

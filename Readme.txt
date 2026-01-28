@@ -97,7 +97,7 @@
   
 ====================================================================================
 
-  This Python script launches a separate graphical user interface (GUI) for signing messages with the private key of a Namecoin asset, as well as for verifying signatures against the corresponding public key (derived from the asset's address).
+  This Python script launches a separate graphical user interface (GUI) for signing messages with the private key of a Namecoin asset, as well as for verifying signatures against the corresponding public key (derived from the asset's signature and checked against its address).
 
   It supports:
   - Legacy P2PKH (N..., M...), P2SH (6...), and Bech32 (nc1...) addresses.
@@ -161,3 +161,4 @@
   from its use or misuse!
 
 ====================================================================================
+
